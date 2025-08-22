@@ -5,13 +5,13 @@ const drinks = [
     {
         id: 1,
         name: 'มอคค่าเย็น',
-        image: 'https://images.unsplash.com/photo-1586948217355-65de5f441094?q=80&w=1887&auto=format&fit=crop',
+        image: 'https://i.pinimg.com/736x/b5/5c/06/b55c06b03724413fb48baac017f4ac0d.jpg',
         description: 'ความลงตัวของกาแฟและช็อกโกแลตที่ให้ความสดชื่น',
         rating: 4.5, // คะแนนความอร่อย (เต็ม 5)
         ingredients: [
-            { name: 'เอสเปรสโซ', image: 'https://images.unsplash.com/photo-1610889556528-95f8b93a0b11?q=80&w=2070&auto=format&fit=crop' },
-            { name: 'นมสด', image: 'https://images.unsplash.com/photo-1620189507195-68309c04c4d5?q=80&w=1887&auto=format&fit=crop' },
-            { name: 'ซอสช็อกโกแลต', image: 'https://images.unsplash.com/photo-1627808092016-170de4448575?q=80&w=1887&auto=format&fit=crop' }
+            { name: 'เอสเปรสโซ', image: 'https://i.pinimg.com/736x/80/af/5a/80af5ada8b9078d1edac6246a687aaed.jpg' },
+            { name: 'นมสด', image: 'https://i.pinimg.com/1200x/e1/24/ac/e124ac5a6569514efcae67fbca173032.jpg' },
+            { name: 'ซอสช็อกโกแลต', image: 'https://i.pinimg.com/736x/86/ac/70/86ac7052f9acf98e1b77a60fea5b28b6.jpg' }
         ],
         instructions: [
             'นำซอสช็อกโกแลตมาวาดลวดลายข้างแก้ว',
@@ -27,9 +27,9 @@ const drinks = [
         description: 'รสชาติเข้มข้นหอมกรุ่นของมัทฉะแท้ผสมนมสดนุ่มละมุน',
         rating: 4.8,
         ingredients: [
-            { name: 'ผงมัทฉะ', image: 'https://images.unsplash.com/photo-1642849419999-33b0ed57c7a3?q=80&w=1894&auto=format&fit=crop' },
-            { name: 'น้ำร้อน', image: 'https://images.unsplash.com/photo-1605913295861-39e245a43e3c?q=80&w=1887&auto=format&fit=crop' },
-            { name: 'นมสด', image: 'https://images.unsplash.com/photo-1620189507195-68309c04c4d5?q=80&w=1887&auto=format&fit=crop' }
+            { name: 'ผงมัทฉะ', image: 'https://i.pinimg.com/736x/1a/a4/ba/1aa4ba70829685f32d9c0321a61859f1.jpg' },
+            { name: 'น้ำร้อน', image: 'https://i.pinimg.com/736x/8c/05/18/8c0518d7fc7ce1be27b2199629a72b64.jpg' },
+            { name: 'นมสด', image: 'https://i.pinimg.com/1200x/e1/24/ac/e124ac5a6569514efcae67fbca173032.jpg' }
         ],
         instructions: [
             'ใส่ผงมัทฉะลงในแก้วแล้วเทน้ำร้อนตาม',
@@ -41,18 +41,38 @@ const drinks = [
     {
         id: 3,
         name: 'สตรอว์เบอร์รีสมูทตี้',
-        image: 'https://images.unsplash.com/photo-1610917228383-9b2f347e4d82?q=80&w=1887&auto=format&fit=crop',
+        image: 'https://i.pinimg.com/1200x/75/16/86/751686f10341eda2aa7baf351be10079.jpg',
         description: 'เครื่องดื่มเพื่อสุขภาพที่อัดแน่นไปด้วยวิตามินและความอร่อย',
         rating: 4.2,
         ingredients: [
-            { name: 'สตรอว์เบอร์รี', image: 'https://images.unsplash.com/photo-1585618739133-3c3e88e2aa63?q=80&w=1887&auto=format&fit=crop' },
-            { name: 'โยเกิร์ต', image: 'https://images.unsplash.com/photo-1562114807-a3c3f1503c5d?q=80&w=1887&auto=format&fit=crop' },
+            { name: 'สตรอว์เบอร์รี', image: 'https://i.pinimg.com/1200x/9b/8d/ac/9b8dacbbc984cc12818a74bc78da36e3.jpg' },
+            { name: 'โยเกิร์ต', image: 'https://i.pinimg.com/1200x/37/56/1f/37561f1a60d60c387db3a2aa3d5c18b3.jpg' },
             { name: 'น้ำผึ้ง', image: 'https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?q=80&w=1935&auto=format&fit=crop' }
         ],
         instructions: [
             'นำส่วนผสมทั้งหมดใส่ลงในเครื่องปั่น',
             'ปั่นด้วยความเร็วสูงจนเนื้อเนียนละเอียดเข้ากัน',
             'เทใส่แก้ว พร้อมเสิร์ฟทันที'
+        ]
+    },
+    {
+        id: 4,
+        name: 'น้ำผึ้งมะนาวโซดา',
+        image: 'https://i.pinimg.com/736x/90/59/a2/9059a24f605847931db091c05e4448c6.jpg',
+        description: 'ความหวานเปรี้ยวกลมกล่อม ตัดกับความซ่าของโซดา',
+        rating: 4.3,
+        ingredients: [
+            { name: 'น้ำผึ้ง', image: 'https://i.pinimg.com/736x/af/b8/ba/afb8baea100fb2ddbc1472c2512dfc9d.jpg' },
+            { name: 'น้ำมะนาว', image: 'https://i.pinimg.com/736x/60/fa/6a/60fa6a2e416fe4e2896f55331bfd50d9.jpg' },
+            { name: 'โซดา', image: 'https://i.pinimg.com/1200x/04/12/60/0412601814a9bb694a9f4d470216d741.jpg' },
+            { name: 'น้ำแข็ง', image: 'https://i.pinimg.com/736x/57/74/63/57746397ad30315179abe312e2d5a269.jpg' },
+            { name: 'มะนาวฝานเป็นชิ้นบาง', image: 'https://i.pinimg.com/736x/f4/02/18/f40218570742c342d0cf35372bce4fd1.jpg' },
+            { name: 'ใบสะระแหน่', image: 'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg' },
+        ],
+        instructions: [
+            'ผสมน้ำผึ้งกับน้ำมะนาวให้ละลายเข้ากัน',
+            'เทใส่แก้วที่มีน้ำแข็ง ตามด้วยโซดาแช่เย็นจนเต็มแก้ว',
+            'แต่งด้วยมะนาวฝานและใบสะระแหน่'
         ]
     }
 ];
