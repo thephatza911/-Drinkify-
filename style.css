@@ -9,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #4a90e2;
+    background-image: url("https://thumb.photo-ac.com/05/0509f622c6fdc7350bb036c12ad232ff_t.jpeg"); 
     color: white;
     padding: 20px;
     border-radius: 8px;
@@ -26,6 +26,36 @@ h1 {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
     gap: 20px;
     padding: 20px;
+}
+
+/* กล่องครอบช่องค้นหา */
+.search-container {
+    padding: 0 20px; /* เพิ่มระยะห่างซ้ายขวาเล็กน้อย */
+    margin-bottom: 25px;
+    display: flex; /* ใช้ Flexbox ในการจัดตำแหน่ง */
+    justify-content: flex-end; /* ดัน item ไปทางขวาสุด */
+}
+
+
+/* ช่องค้นหา */
+#search-input {
+    width: 40%; /* กำหนดความกว้างเป็นเปอร์เซ็นต์ */
+    min-width: 300px; /* กำหนดความกว้างขั้นต่ำ */
+    padding: 15px 22px; /* เพิ่ม padding ทำให้กล่องใหญ่ขึ้น */
+    font-size: 1.2em; /* เพิ่มขนาดตัวอักษร */
+    border: 2px solid #ddd;
+    border-radius: 30px; /* เพิ่มความโค้งมน */
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+#search-input:focus {
+    border-color: #4a90e2;
+    outline: none;
+}
+#search-input:focus {
+    border-color: #4a90e2; /* เปลี่ยนสีขอบเมื่อผู้ใช้กำลังพิมพ์ */
+    outline: none; /* เอาเส้นขอบสีน้ำเงินของเบราว์เซอร์ออก */
 }
 
 .drink-item {
@@ -68,7 +98,7 @@ h1 {
     font-size: 1em;
     margin-bottom: 20px;
     display: block; /* ทำให้ปุ่มอยู่บรรทัดเดียว */
-    margin-left: auto;
+    margin-left: 0;
     margin-right: auto;
 }
 
