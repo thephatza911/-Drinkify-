@@ -78,7 +78,7 @@ const drinks = [
     {
         id:5,
         name: 'วอดก้ามะนาว',
-        image: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-75f0-622f-a716-24c0447fadef/raw?se=2025-08-23T18%3A05%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=7c798083-e03b-5eeb-a01c-61aaa033d04c&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-23T16%3A40%3A56Z&ske=2025-08-24T16%3A40%3A56Z&sks=b&skv=2024-08-04&sig=ZZGhLF2yCm4T3yfofvSYKjGdV%2BnCSYCh3Zz9Wom4yi0%3D',
+        image: 'https://img.freepik.com/free-photo/blend-cocktails-glasses-with-lime-salty-rims_23-2149384417.jpg?semt=ais_hybrid&w=740&q=80',
         description: 'ว้อดก้าจากแดนไกล ผสมผสานกับความนัวจากแดนไทย',
         rating: 5,
         ingredients: [
@@ -97,7 +97,7 @@ const drinks = [
     {
         id:6,
         name: 'น้ำเผือกหอม',
-        image: 'https://sdmntprcentralus.oaiusercontent.com/files/00000000-bfcc-61f5-9da5-58ee054a1791/raw?se=2025-08-23T18%3A05%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=cc529183-35fd-532f-9be6-6c4487cacadd&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-22T21%3A52%3A21Z&ske=2025-08-23T21%3A52%3A21Z&sks=b&skv=2024-08-04&sig=ZzJTAX8ItOQr41gIO%2BbBzdLf7Jl9pyhG6tvI2yJFcm8%3D',
+        image: 'https://t3.ftcdn.net/jpg/07/02/30/84/360_F_702308445_pQ7HZ8Yicc5qhVTkFKLWYsmMENSjbMzo.jpg',
         description: 'น้ำเผือกหอมหอม หวานมันอร่อยจนต้องซ้ำ',
         rating: 4.3,
         ingredients: [
@@ -116,7 +116,7 @@ const drinks = [
     {
         id:7,
         name: 'นมสดคาราเมล',
-        image: 'https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-aea4-622f-85e3-11623343bb46/raw?se=2025-08-23T18%3A05%3A13Z&sp=r&sv=2024-08-04&sr=b&scid=65e156bc-730e-5a99-a79f-bca193a6d2cf&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-23T11%3A06%3A58Z&ske=2025-08-24T11%3A06%3A58Z&sks=b&skv=2024-08-04&sig=P6d32AiUjvYl2Lf/V5j6n9BbDQ7qV774Y7qxfwJ9WcY%3D',
+        image: 'https://www.dessertfortwo.com/wp-content/uploads/2021/05/caramel-latte-4.jpg',
         description: 'นมสดหอมละมุน ผสานคาราเมลหวานหอม ละลายในปากทุกคำจิบ',
         rating: 4.6,
         ingredients: [
@@ -134,7 +134,7 @@ const drinks = [
     {
         id:8,
         name: 'โซจูองุ่นโซดา',
-        image: 'https://sdmntprukwest.oaiusercontent.com/files/00000000-26a4-6243-8996-31235abd7cd8/raw?se=2025-08-23T18%3A59%3A24Z&sp=r&sv=2024-08-04&sr=b&scid=201ca054-3540-5486-908c-a85c6bbaaa71&skoid=0b778285-7b0b-4cdc-ac3b-fb93e8c3686f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-22T21%3A52%3A27Z&ske=2025-08-23T21%3A52%3A27Z&sks=b&skv=2024-08-04&sig=IqGj7f9ykE/2IELWVW1NBZx3rgXbjeznJygd8gTGOCg%3D',
+        image: 'https://lh3.googleusercontent.com/pw/AP1GczN3p68AEdxKPgDBKgksGiw1bLeCAM-qcFw7gS27FfFekKFZHqWSFlKeGWVMdi6_nkaaex92cnUcSIu1qDXFaDKLUVvtWaez7vlp3rwIMH69hsIbdX_QxuJ1zDER15vVdB9xi8saGIAvXdToERc7GCB9=w567-h919-s-no-gm?authuser=0',
         description: 'น้ำซ่าสดชื่น ทำให้วันของคุณสดใสขึ้น',
         rating: 5,
         ingredients: [
@@ -160,7 +160,7 @@ const drinks = [
             { name: 'น้ำตาลทราย', image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf7TajMV9iJkD0lI5Ym2aKKyJR7OxqZ0TnwulzXKwnGpuaid2KMAYj7xQ14ArfFI3dlzO_ElF2emYqt0rDBc445LUHVX9gFUqGuLMiDEn7GB-aw814g-fe1NsYFTrn9j-irJaUcducFos/s1600/sucrose.jpg' },
             { name: 'เกลือป่น', image:'https://i.pinimg.com/736x/bd/86/40/bd8640f4ba82b996445e9e781588b0fd.jpg'},
             { name: 'น้ำมะนาว', image:'https://i.pinimg.com/736x/60/fa/6a/60fa6a2e416fe4e2896f55331bfd50d9.jpg'},
-            { name: 'สาระแหน่', image:'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg'}
+            { name: 'สะระแหน่', image:'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg'}
         ],
         instructions: [
             'ตักผงชาลงในถุงชงชา เติมน้ำร้อนลงไป ',
@@ -176,9 +176,9 @@ const drinks = [
         description: 'ดื่มด่ำกับค็อกเทลรสชาติดี',
         rating: 5,
         ingredients: [
-            { name: 'มะนาวครึ่งลูก', image: '' },
-            { name: 'สาระแหน่', image: 'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg' },
-            { name: 'น้ำตาลทราย', image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf7TajMV9iJkD0lI5Ym2aKKyJR7OxqZ0TnwulzXKwnGpuaid2KMAYj7xQ14ArfFI3dlzO_ElF2emYqt0rDBc445LUHVX9gFUqGuLMiDEn7GB-aw814g-fe1NsYFTrn9j-irJaUcducFos/s1600/sucrose.jpg' },
+            { name: 'มะนาวครึ่งลูก', image: 'https://s.isanook.com/he/0/ud/0/2381/istock-91829587.jpg?ip/crop/w670h402/q80/jpg'},
+            { name: 'สะระแหน่', image: 'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg'},
+            { name: 'น้ำตาลทราย', image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf7TajMV9iJkD0lI5Ym2aKKyJR7OxqZ0TnwulzXKwnGpuaid2KMAYj7xQ14ArfFI3dlzO_ElF2emYqt0rDBc445LUHVX9gFUqGuLMiDEn7GB-aw814g-fe1NsYFTrn9j-irJaUcducFos/s1600/sucrose.jpg'},
             { name: 'เหล้ารัม', image:'https://www.wine-searcher.com/images/labels/24/17/10432417.jpg'},
             { name: 'โซดาเย็นจัด/สไปรท์', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_rDXyhY0VdaiMKhsswxhf9qN13DkPiUIycZ5lNZqiC9NF_fkkZMziX6Q5eirh1BxqNOU&usqp=CAU'},
             { name: 'สตรอว์เบอร์รี หรือ ราสเบอร์รี (แล้วแต่ความชอบ ใส่หรือไม่ใส่ก็ได้)', image:'https://res.cloudinary.com/dk0z4ums3/image/upload/v1657012287/attached_image_th/strawberryblueberryraspberryvarietyonwoodenandwhitebackground.jpg'}
@@ -199,7 +199,7 @@ const drinks = [
             { name: 'โยเกิร์ต', image: 'https://i.pinimg.com/1200x/37/56/1f/37561f1a60d60c387db3a2aa3d5c18b3.jpg' }, 
             { name: 'บลูเบอร์รี่', image: 'https://i.pinimg.com/736x/2c/ea/98/2cea98039ffe491b7e458655da7a4749.jpg' }, 
             { name: 'น้ำแข็ง', image: 'https://i.pinimg.com/736x/57/74/63/57746397ad30315179abe312e2d5a269.jpg' }, 
-            { name: 'ใบสาระแหน่', image:'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg'}
+            { name: 'ใบสะระแหน่', image:'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg'}
         ],
         instructions: [ 
             'ใส่โยเกิร์ต บลูเบอร์รี่ น้ำแข็งลงโถปั่น ปั่นเข้าด้วยกัน', 
@@ -211,20 +211,148 @@ const drinks = [
         name: 'ค็อกเทล Sex on the Beach',
         image: 'https://i.namu.wiki/i/MKo-9L4_uLKjiw0bDVbkRUDq_tMQ4Gb3-UdI-AjijAk33tdvq2FEIy8gmsdXnTx4xYAyVzJouy9z-oFVMupjrg.webp',
         description: 'ดื่มด่ำไปกับค็อกเทลสูตรพิเศษที่คัดสรรอย่างพิถีพิถัน',
-        rating: 4.9,
+        rating: 5,
         ingredients: [
             { name: 'น้ำแครนเบอร์รี', image: 'https://res.cloudinary.com/freshketimage001/image/upload/v1596008096/iwhheiptqkrwbgsxx7op.jpg' },
             { name: 'น้ำส้ม', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpASMJ2wLkSjwFlqRuiP_EP1PmiJZbFoy6A&s'},
             { name: 'วอดก้า', image: 'https://i.pinimg.com/1200x/7e/04/13/7e04139726e51e8fe59e46c832e9880d.jpg' },
             { name: 'เหล้าพีช ชแนปส์', image: 'https://mcgrocer.com/cdn/shop/files/angels-peach-schnapps-70cl-41369426723054.jpg?v=1735973951' },
             { name: 'น้ำแข็ง', image: 'https://i.pinimg.com/736x/57/74/63/57746397ad30315179abe312e2d5a269.jpg' },
-            { name: ' ส้มหั่นซีก', image:'https://img.sistacafe.com/resizer?url=sistacafe-assets:____%2Fc%2F49378%2Fthumbnail.jpeg?v=20240305231809&w=275'}
+            { name: 'ส้มหั่นซีก', image:'https://img.sistacafe.com/resizer?url=sistacafe-assets:____%2Fc%2F49378%2Fthumbnail.jpeg?v=20240305231809&w=275'}
         ],
         instructions: [
             'เทน้ำแข็งใส่แก้ว Highball glass',
             'เทวอดก้า เหล้าพีช และน้ำส้มลงในแก้ว',
             'เทน้ำแครนเบอร์รีตาม',
             'ตกแต่งด้วยส้มหั่นซีก'
+        ]
+    },
+    {
+        id:14,
+        name: 'ค็อกเทล Screwdriver',
+        image: 'https://i.pinimg.com/474x/c6/f3/db/c6f3dbe476f3fbee23b1914c705e181c.jpg',
+        description: 'รสชาติความเปรี่ยวที่ผสมผสานกับว้อดก้าที่แสนสดชื่น',
+        rating: 4.8,
+        ingredients: [
+            { name: 'เหล้าวอดก้า', image: 'https://i.pinimg.com/1200x/7e/04/13/7e04139726e51e8fe59e46c832e9880d.jpg' },
+            { name: 'น้ำส้ม', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHpASMJ2wLkSjwFlqRuiP_EP1PmiJZbFoy6A&s' }
+        ],
+        instructions: [
+            'เตรียมแก้ว เติมน้ำแข็งก้อน เทเหล้าวอดก้าลงบนน้ำแข็ง',
+            'จากนั้น เทน้ำส้มตามลงไป พร้อมดื่ม'
+        ]
+    },
+    {
+        id:15,
+        name: 'ค็อกเทล Very Sexy Martini ',
+        image: 'https://i0.wp.com/www.imbored-letsgo.com/wp-content/uploads/2014/12/Berry-Merry-Christmas-Martini.jpg?ssl=1',
+        description: 'ดื่มด่ำไปกับความอร่อยของแชมเปญสุดหรู พร้อมกับความเปรี้ยวของราสเบอร์รี่',
+        rating: 4.9,
+        ingredients: [
+            { name: 'ราสเบอร์รี่', image: 'https://i.pinimg.com/736x/31/47/8e/31478e0bb1219f53afdf88d74057ee01.jpg' },
+            { name: 'ใบมิ้นต์', image: 'https://img.pikbest.com/ai/illus_our/20230423/7c087a5110a486e75d809639645ea7ce.jpg!w700wp' },
+            { name: 'น้ำเชื่อม', image: 'https://bluemochateas.com/wp-content/uploads/2021/04/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1.jpeg.webp' },
+            { name: 'วอดก้ารสส้ม', image:'https://f.ptcdn.info/573/023/000/1411046380-cointreau1-o.jpg'},
+            { name: 'น้ำมะนาว', image:'https://i.pinimg.com/736x/60/fa/6a/60fa6a2e416fe4e2896f55331bfd50d9.jpg'},
+            { name: 'แชมเปญ Moët & Chandon Rosé Imperial', image:'https://liberationqualitydrinks.je/cdn/shop/files/WEBSITE_4_e60413d5-ecb4-4839-90a1-bf98307275d1_900x.png?v=1715587057'},
+            { name: 'สะระแหน่', image:'https://i.pinimg.com/736x/2f/4a/e2/2f4ae2ca3fa73b7dd78b56d3436f20ad.jpg'}
+        ],
+        instructions: [
+            'ปั่นราสเบอร์รี่ มินต์ และน้ำเชื่อมเข้าด้วยกัน',
+            'เติมวอดก้าและน้ำมะนาว เติมน้ำแข็ง และเขย่าจนเย็นดี',
+            'กรองลงในแก้วค็อกเทล',
+            'ปิดท้ายด้วยแชมเปญ และตกแต่งด้วยใบมิ้นต์และราสเบอร์รี่'
+        ]
+    },
+    {
+        id:16,
+        name: 'ค็อกเทล Pink Lady',
+        image: 'https://amandascookin.com/wp-content/uploads/2019/01/pink-lady-cocktail-V2.jpg',
+        description: ' สีสันสดใส รสชาติเปรี้ยว หวาน กลมกล่อม ละมุนลิ้นสุด ๆ',
+        rating: 5,
+        ingredients: [
+            { name: 'เหล้าจิน', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3tgfl2I-I1sceKGiF9wDlaT8zIFhrkakuA&s' },
+            { name: 'เหล้าบรั่นดี', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ_TKqHbdr-6UBIaBLt0qMnMawwhYuPO_0Aw&s' },
+            { name: 'น้ำมะนาว', image: 'https://i.pinimg.com/736x/60/fa/6a/60fa6a2e416fe4e2896f55331bfd50d9.jpg' },
+            { name: 'น้ำเชื่อมเกรนาดีน', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGuaWDIQKfU7TAPQbMWS7SuPAME8XpbenHEw&s'},
+            { name: 'ไข่ขาวสด', image:'https://mpics.mgronline.com/pics/Images/558000009961901.JPEG'}
+        ],
+        instructions: [
+            'ผสมเหล้ารัมจิน (Gin) เหล้าบรั่นดี น้ำมะนาว น้ำเชื่อมเกรนาดีน และไข่ขาว Shake แบบไม่ใส่น้ำแข็ง ให้เข้ากัน 20 วินาที',
+            'จากนั้น เติมน้ำแข็ง Shake ให้เข้ากันอีก 20 วินาที เทใส่แก้วค็อกเทลมาร์ตินี พร้อมดื่ม'
+        ]
+    },
+    {
+        id:17,
+        name: 'ค็อกเทล Blue Hawaii',
+        image: 'https://www.shakedrinkrepeat.com/wp-content/uploads/2021/05/Frozen-Blue-Hawaiian-3.jpg',
+        description: 'รสชาติหวานอมเปรี้ยว เหมาะสำหรับสาว ๆ เป็นที่สุด',
+        rating: 4.8,
+        ingredients: [
+            { name: 'เหล้ารัม ', image: 'https://www.wine-searcher.com/images/labels/24/17/10432417.jpg' },
+            { name: 'เหล้า Blue Curacao', image: 'https://image.makewebcdn.com/makeweb/m_1920x0/pdqJ2irR1/TeisseireBarmanMT/Mathieu_Teisseire_Le_blue_Blue_Curacao_syrup.png' },
+            { name: 'น้ำมะนาว', image: 'https://i.pinimg.com/736x/60/fa/6a/60fa6a2e416fe4e2896f55331bfd50d9.jpg' },
+            { name: 'น้ำสับปะรด', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrbgZXLgvYvQWE7nMw17yk1fitHTR04bY_yMpFOVU6q-TYxGJAkmbIZN2Any1nFFTa0gs&usqp=CAU'}
+        ],
+        instructions: [
+            'ผสม เหล้ารัม เหล้า Blue Curacao น้ำมะนาว และน้ำสับปะรด ใส่น้ำแข็ง Shake ให้เข้ากัน 10 วินาที',
+            'เทใส่แก้วทรงสูง ตกแต่งด้วยสับปะรด พร้อมดื่ม'
+        ]
+    },
+    {
+        id:18,
+        name: 'ค็อกเทล Margarita',
+        image: 'https://delicerecipes.com/wp-content/uploads/2021/01/Frozen-Margarita-Cocktail.jpg',
+        description: 'รสชาติอร่อยสดชื่น ดื่มง่าย ประยุกต์ได้หลากหลาย',
+        rating: 5,
+        ingredients: [
+            { name: 'เหล้าเตกีล่า ', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmnsWBaEmMAI75CI3gqlo_k43_WZVgPMYHg&s' },
+            { name: 'เหล้าเปลือกส้ม (Triple Sec)', image: 'https://image.makewebcdn.com/makeweb/m_1920x0/6KKhXhmFQ/Liqueurnew/Cointreau.png' },
+            { name: 'น้ำมะนาว', image: 'https://i.pinimg.com/736x/60/fa/6a/60fa6a2e416fe4e2896f55331bfd50d9.jpg' },
+            { name: 'น้ำเชื่อม', image:'https://bluemochateas.com/wp-content/uploads/2021/04/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%A1.jpeg.webp'},
+            { name: 'เกลือ มะนาวหั่นบาง สำหรับตกแต่ง', image:'https://image-thaihometown.com/content19/13998/4.jpg'}
+        ],
+        instructions: [
+            'ผสม เหล้าเตกีล่า เหล้าเปลือกส้ม และน้ำมะนาว ใส่น้ำแข็ง Shake ให้เข้ากัน 10 วินาที จากนั้นค่อย ๆ รินส่วนที่เป็นน้ำอย่างเดียวลงไปในแก้วค็อกเทล',
+            'ตกแต่งแก้วด้วยมะนาวหั่น ก่อนดื่มให้ทาเกลือลงบนปากแก้ว และนำชิ้นมะนาวทาวนลงบนเกลืออีกครั้ง พร้อมดื่ม'
+        ]
+    },
+    {
+        id:19,
+        name: 'ค็อกเทลB52',
+        image: 'https://media.istockphoto.com/id/1221673893/th/%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2/%E0%B8%84%E0%B9%87%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%97%E0%B8%A5-b-52-%E0%B8%9A%E0%B8%99%E0%B8%81%E0%B8%AD%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%81%E0%B8%B2%E0%B8%A2.jpg?s=612x612&w=0&k=20&c=0w279hWi3IoPKHI2lYDsAsp-mBc9uU17OhItjXXa9yU=',
+        description: 'ค็อกเทลคอแข็ง ไม่ได้แข็งแค่คอ ดอก็แข็ง',
+        rating: 4.9,
+        ingredients: [
+            { name: 'เหล้าเปลือกส้ม', image: 'https://image.makewebcdn.com/makeweb/m_1920x0/6KKhXhmFQ/Liqueurnew/Cointreau.png' },
+            { name: 'เหล้าหวาน Baileys Cream', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDubx93-Zb0CjXv8O1sljP5MorWwoRvH6nJA&s' },
+            { name: 'เหล้าหวาน Kahlua', image: 'https://bottlebuzz.com/cdn/shop/products/kahlua-coffee-liqueur-vanilla-574318.jpg?v=1700410284' }
+        ],
+        instructions: [
+            'ผสมผสม เหล้าเปลือกส้ม เหล้า Baileys Cream (เบย์ลี่ย์ ครีม) และเหล้า Kahlua (คาลัวร์) ลงในแก้ว Shot ตามลำดับ แล้วจุดไฟ ใช้หลอดดูด พร้อมดื่มทันที'
+        ]
+    },
+    {
+        id:20,
+        name: 'ค็อกเทล Long Island',
+        image: 'https://www.supergoldenbakes.com/wordpress/wp-content/uploads/2019/07/Long_island_iced_tea-1-4s.jpg',
+        description: 'สำหรับชาวคอแข็งเท่านั้น! เมนู Long Island Iced Tea เป็นค็อกเทลที่มีส่วนผสมของเหล้าอยู่เป็นจำนวนมาก แต่ผู้หญิงก็ดื่มได้ รสชาติเข้ม',
+        rating: 5,
+        ingredients: [
+            { name: 'เหล้าจิน ', image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG3tgfl2I-I1sceKGiF9wDlaT8zIFhrkakuA&s' },
+            { name: 'เหล้ารัมขาว', image: 'https://us-fbcloud.net/wb/data/1466/1466689-img.w3b05k.34djw.opsb5eqz.webp' },
+            { name: 'เหล้าเตกีล่าสีเงิน ', image: 'https://s.alicdn.com/@sc04/kf/H5f554b653c2a4efa9248d8b203d4d94dH/OEM-750ml-High-Quality-Blue-Colored-Glass-Bottles-Tequila-with-Custom-Label.jpg_300x300.jpg' },
+            { name: 'เหล้าวอดก้า', image:'https://i.pinimg.com/1200x/7e/04/13/7e04139726e51e8fe59e46c832e9880d.jpg'},
+            { name: 'เหล้าเปลือกส้ม (Triple Se,c)', image:'https://image.makewebcdn.com/makeweb/m_1920x0/6KKhXhmFQ/Liqueurnew/Cointreau.png'},
+            { name: 'น้ำอัดลม รสโคล่า', image:'https://inwfile.com/s-dz/78wru7.jpg'},
+            { name: 'น้ำเลม่อนสด', image:'https://file.sogoodweb.com/upload/156/7K8dcZe8Z5.jpg'},
+            { name: 'ไซรัปหวา', image:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNKS8DblNf2dq-DLgGSrhYfALgcls86DoCjgBtDF3qYFwDzGK1UtTqmNjr909o8rVKY8k&usqp=CAU'}
+        ],
+        instructions: [
+            'ส่วนผสม Sour mix = น้ำเลม่อนสด 0.75 ออนซ์ + ไซรัปหวาน 1/2 ออนซ์',
+            'ทำ Sour mix ผสมน้ำเลม่อนสด และไซรัปหวาน ให้เข้ากัน',
+            'ผสมผสม เหล้าจิน เหล้ารัม เหล้าเตกีล่า เหล้าวอดก้า เหล้าเปลือกส้ม และ Sour mix ใส่น้ำแข็ง Shake ให้เข้ากัน',
+            'รินเครื่องดื่มใส่แก้วค็อกเทล ท็อปด้วยน้ำอัดลมรสโคล่า พร้อมดื่ม'
         ]
     }
 ];
