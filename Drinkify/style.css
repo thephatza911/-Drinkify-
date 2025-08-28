@@ -179,3 +179,45 @@ h1 {
     color: #ffc107; /* สีดาว */
     font-size: 1.5em;
 }
+
+/* กล่องครอบปุ่มหมวดหมู่ */
+.category-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* ระยะห่างระหว่างปุ่ม */
+    flex-wrap: wrap; /* ทำให้ปุ่มขึ้นบรรทัดใหม่ได้ถ้าไม่พอ */
+    margin-bottom: 30px;
+}
+
+/* ปุ่มหมวดหมู่ */
+.category-btn {
+    background-color: #fff;
+    color: #4a90e2;
+    border: 2px solid #4a90e2;
+    padding: 10px 20px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.category-btn:hover {
+    background-color: #4a90e2;
+    color: #fff;
+}
+
+/* สไตล์สำหรับปุ่มที่กำลังถูกเลือก */
+.category-btn.active {
+    background-color: #4a90e2;
+    color: #fff;
+}
+
+
+/* ส่วนของเมนูแนะนำ */
+#recommended-section {
+    background-color: #eaf2fa;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 30px;
+}
